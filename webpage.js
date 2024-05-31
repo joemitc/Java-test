@@ -1,5 +1,4 @@
 let ourForm = document.getElementById("ourForm")
-
 ourForm.addEventListener("click", () => {
-    alert("thanks for clicking!")
+    alert("This is a pop up")
 })
